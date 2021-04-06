@@ -20,8 +20,8 @@ const shuffle = (array) => {
 /* カードを並べる */
 shuffle(trump).forEach((card) => {
   const el = document.createElement("div");
-  el.classList.add("card");
   el.innerHTML = `<div>${card.suit} ${card.number}</div>`;
+  el.classList.add("card");
   const table = document.getElementById("table");
   table.appendChild(el);
 });

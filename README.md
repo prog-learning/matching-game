@@ -10,7 +10,7 @@ JavaScript の DOM 操作までの基礎知識を学び終えたらそれを実�
 
 ## STEPS
 
-1. トランプを並べる
+1. **トランプを並べる**
 
    - index.html, style.css, main.js の 3 つのファイルの作成
    - トランプの配列を作成
