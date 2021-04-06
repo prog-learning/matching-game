@@ -2,11 +2,19 @@
   box-sizing: border-box;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 #table {
   display: flex;
   flex-wrap: wrap;
+  background-color: skyblue;
+  border-radius: 12px;
+  padding: 20px;
 }
 
+/* カードのベースとなるスタイル */
 .card {
   width: 60px;
   height: 90px;
@@ -15,4 +23,5 @@
   margin: 8px;
   padding-top: 24px;
   text-align: center;
+  background-color: #fff;
 }
