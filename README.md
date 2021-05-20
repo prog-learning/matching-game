@@ -8,6 +8,11 @@ JavaScript の DOM 操作までの基礎知識を学び終えたらそれを実�
 各 STEP における README.md の内容を参考に自分で JavaScript を書いてみて,最終的にその STEP のコードと比較してみましょう！
 ここのコードは一つの解答に過ぎませんので,より良い書き方を模索したり,違った処理で実装してみても GOOD です！
 
+## 完成イメージ
+
+![](./mocks/sample1.png)
+![](./mocks/sample2.png)
+
 ## STEPS
 
 1. トランプを並べる
